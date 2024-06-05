@@ -62,3 +62,6 @@ Finally, output the data to a new file.
 ```python
 rows_in_90th_percentile.to_parquet(utils.insert_string(filename, '-ninetieth_percentile'))
 ```
+
+## YouTube Overview
+[![YouTube video about this code and the problem it solves](https://img.youtube.com/vi/o6Rcrjzi_PY/0.jpg)](https://www.youtube.com/watch?v=o6Rcrjzi_PY)
